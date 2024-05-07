@@ -1,0 +1,26 @@
+{
+  "name": "replace-end",
+  "version": "0.0.0",
+  "description": "Adds the missing `String::replaceEnd` method to JavaScript",
+  "main": "src/replaceEnd.mjs",
+  "type": "module",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [
+    "string",
+    "replace",
+    "end",
+    "replaceEnd",
+    "String.replaceEnd",
+    "string.replaceEnd"
+  ],
+  "author": "Ashlynne Juniper",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
