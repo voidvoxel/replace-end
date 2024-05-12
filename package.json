@@ -20,7 +20,7 @@
   ],
   "author": "Ashlynne Juniper",
   "license": "MPL-2.0",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.7.0"
   }
 }
