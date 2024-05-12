@@ -1,6 +1,6 @@
 {
   "name": "replace-end",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds the missing `String::replaceEnd` method to JavaScript",
   "main": "src/replaceEnd.mjs",
   "type": "module",
